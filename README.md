@@ -48,8 +48,8 @@ https://github.com/yourusername/spendwise
 
 ## 📦 How to Run
 
-1. Clone repository:
-   git clone https://github.com/yourusername/spendwise.git
+1. repository:
+ https://github.com/poehmew/spendwise.git
 
 2. Navigate into project:
    cd spendwise
@@ -59,3 +59,6 @@ https://github.com/yourusername/spendwise
 
 4. Run app:
    flutter run
+
+5.Run web:
+ flutter run -d chrome

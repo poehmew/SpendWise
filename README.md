@@ -44,7 +44,7 @@ The app follows a layered MVVM architecture:
 Poe Eint Hmew (100002753)
 
 ## 🔗 GitHub Repository
-https://github.com/yourusername/spendwise
+https://github.com/poehmew/spendwise
 
 ## 📦 How to Run
 
